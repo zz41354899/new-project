@@ -275,7 +275,13 @@ a {
 		flex-direction: column;
 	}
 	.menu {
+		flex-direction: column;
 		margin-top: 20px;
+	}
+	.menu a{
+		padding-right: 0;
+		padding-top: 1rem;
+		padding-bottom: 1rem;
 	}
 	.showcase {
 		flex-direction: column-reverse;
